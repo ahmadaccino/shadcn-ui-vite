@@ -9,7 +9,7 @@ It sounds lazy but I find myself doing these SAME steps all the time.
 so this is a command i run everytime i want to spin up a vite project
 
 ```bash
-git clone https://github.com/ahmadaccino/shadcn-ui-vite my-app && cd my-app && rm -rf .git && git init
+git clone https://github.com/ahmadaccino/shadcn-ui-vite my-app && cd my-app && rm -rf .git && git init && git add . && git commit -m "init"
 ```
 
 ## why i didnt include a router
